@@ -10,6 +10,8 @@ This repository contains the code and documentation for a custom-built informati
 - `text_tf_index_pipeline_gcp.ipynb`: Jupyter notebook detailing the pipeline for creating and storing text term-frequency indices in GCP.
 - `title_tf_index_pipeline_gcp.ipynb`: Jupyter notebook detailing the pipeline for creating and storing title term-frequency indices in GCP.
 - `queries_train.json`: Sample query dataset used for training the search engine's effectiveness.
+- `docid_len_dict.pkl`: Pickle file containing the document ID to document length mappings.
+- `docid_title_dict.pkl`: Pickle file containing the document ID to title mappings, used for displaying search results with readable titles.
 
 ## Creators
 Created by Omri Haller and Anton Dzega
