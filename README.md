@@ -1,6 +1,9 @@
 # Wikipedia Information Retrieval Engine
 
 This repository contains the code and documentation for a custom-built information retrieval engine designed to query and retrieve relevant Wikipedia pages from local data. Built using Python, this engine leverages information retrieval techniques, and integration with Google Cloud Platform for efficient data handling and indexing.
+<p align="center">
+<img src="/Logo.webp" width="400" height="400">
+</p>
 
 ## Project Structure
 
